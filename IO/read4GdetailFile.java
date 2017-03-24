@@ -1,4 +1,3 @@
-package cn.chinaunicom.IO;
 
 import cn.chinaunicom.utils.*;
 
